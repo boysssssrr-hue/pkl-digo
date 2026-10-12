@@ -11,13 +11,16 @@ return new class extends Migration
      */
     public function up(): void
 {
-    Schema::create('products', function (Blueprint $table) {
+    if (!Schema::hasTable('products')) Schema::create('products', function (Blueprint $table) {
         $table->id();
-        $table->string('name');          // Nama alat tulis (misal: Buku Tulis Sinar Dunia)
-        $table->text('description')->nullable(); // Deskripsi barang
-        $table->decimal('price', 10, 2); // Harga barang
-        $table->integer('stock');        // Jumlah stok
-        $table->string('image')->nullable();     // Foto produk
+        $table->string('barcode')->unique();
+        $table->string('name');
+        $table->string('category');
+        $table->string('unit')->default('Pcs');
+        $table->text('description')->nullable();
+        $table->unsignedInteger('stock')->default(0);
+        $table->string('status')->default('available');
+        $table->string('image')->nullable();
         $table->timestamps();
     });
 }

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="penBody" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="50%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="silverClip" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e2e8f0"/>
+      <stop offset="50%" stop-color="#94a3b8"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+    <filter id="dropShadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <rect width="400" height="300" rx="16" fill="url(#bgGrad)"/>
+  <circle cx="200" cy="150" r="110" fill="#10b981" fill-opacity="0.08"/>
+  <g transform="rotate(-35 200 150)" filter="url(#dropShadow)">
+    <!-- Pen Body -->
+    <rect x="70" y="142" width="220" height="16" rx="8" fill="url(#penBody)"/>
+    <!-- Rubber Grip -->
+    <rect x="230" y="140" width="50" height="20" rx="4" fill="#0f766e"/>
+    <line x1="240" y1="140" x2="240" y2="160" stroke="#14b8a6" stroke-width="1.5"/>
+    <line x1="250" y1="140" x2="250" y2="160" stroke="#14b8a6" stroke-width="1.5"/>
+    <line x1="260" y1="140" x2="260" y2="160" stroke="#14b8a6" stroke-width="1.5"/>
+    <line x1="270" y1="140" x2="270" y2="160" stroke="#14b8a6" stroke-width="1.5"/>
+    <!-- Pen Cone Tip -->
+    <path d="M280 144 L310 150 L280 156 Z" fill="url(#silverClip)"/>
+    <!-- Fine 0.5 Ball Point -->
+    <line x1="310" y1="150" x2="316" y2="150" stroke="#64748b" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Clip -->
+    <rect x="90" y="132" width="55" height="7" rx="3.5" fill="url(#silverClip)"/>
+    <rect x="85" y="137" width="12" height="14" rx="2" fill="url(#silverClip)"/>
+    <!-- Clicker Button -->
+    <rect x="58" y="145" width="14" height="10" rx="3" fill="url(#silverClip)"/>
+    <!-- Brand Label -->
+    <text x="145" y="153" fill="#cbd5e1" font-size="8" font-family="sans-serif" font-weight="bold" letter-spacing="1">JOYKO GEL 0.5</text>
+  </g>
+  <rect x="16" y="248" width="130" height="36" rx="8" fill="#0f172a" fill-opacity="0.8" stroke="#334155" stroke-width="1"/>
+  <text x="28" y="266" fill="#e2e8f0" font-size="11" font-family="sans-serif" font-weight="bold">ATK-001</text>
+  <text x="28" y="278" fill="#94a3b8" font-size="9" font-family="sans-serif">Joyko Gel Pen 0.5</text>
+</svg>

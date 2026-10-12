@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <rect width="400" height="300" rx="16" fill="url(#bgGrad)"/>
+  <circle cx="200" cy="150" r="105" fill="#06b6d4" fill-opacity="0.08"/>
+  <g filter="url(#shadow)">
+    
+      <g transform="rotate(-30 200 150)">
+        <rect x="90" y="130" width="180" height="40" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+        <rect x="60" y="125" width="40" height="50" rx="6" fill="#0f172a"/>
+        <rect x="270" y="138" width="30" height="24" rx="4" fill="#0284c7"/>
+        <polygon points="300,142 325,150 300,158" fill="#0284c7"/>
+        <text x="170" y="156" fill="#0f172a" font-size="14" font-family="sans-serif" font-weight="900" text-anchor="middle">SNOWMAN</text>
+        <text x="170" y="166" fill="#64748b" font-size="7" font-family="sans-serif" font-weight="bold" text-anchor="middle">WHITE BOARD MARKER</text>
+      </g>
+    
+  </g>
+  <rect x="16" y="248" width="160" height="36" rx="8" fill="#0f172a" fill-opacity="0.85" stroke="#334155" stroke-width="1"/>
+  <text x="28" y="266" fill="#e2e8f0" font-size="11" font-family="sans-serif" font-weight="bold">ATK-003</text>
+  <text x="28" y="278" fill="#94a3b8" font-size="9" font-family="sans-serif">Spidol Whiteboard Marker</text>
+</svg>

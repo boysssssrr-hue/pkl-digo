@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad_b-2997-ufd" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <filter id="shadow_b-2997-ufd" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <rect width="400" height="300" rx="16" fill="url(#bgGrad_b-2997-ufd)"/>
+  <circle cx="200" cy="150" r="105" fill="#94a3b8" fill-opacity="0.08"/>
+  <g filter="url(#shadow_b-2997-ufd)">
+    <g transform="translate(40, 55)">
+      <!-- Ground Shadow -->
+      <ellipse cx="160" cy="152" rx="140" ry="18" fill="#000" fill-opacity="0.45"/>
+      
+      <!-- Avanza Body -->
+      <path d="M22,130 L42,88 Q62,62 105,52 L198,48 Q238,50 268,76 L298,106 L302,130 Z" fill="#475569"/>
+      <line x1="30" y1="96" x2="295" y2="96" stroke="#94a3b8" stroke-width="1.5" stroke-opacity="0.4"/>
+    
+      
+      <!-- Avanza Windows -->
+      <path d="M102,58 L188,54 L198,86 L82,86 Z" fill="#0f172a" stroke="#94a3b8" stroke-width="1.5"/>
+      <path d="M202,54 L245,70 L245,86 L202,86 Z" fill="#0f172a" stroke="#94a3b8" stroke-width="1.5"/>
+    
+      <!-- Headlights -->
+      <polygon points="278,98 304,102 294,116 274,110" fill="#fef08a"/>
+      <!-- Rear lights -->
+      <polygon points="20,110 32,108 30,124 18,122" fill="#ef4444"/>
+      <!-- Wheels -->
+      <circle cx="78" cy="135" r="28" fill="#0f172a" stroke="#475569" stroke-width="4"/>
+      <circle cx="78" cy="135" r="14" fill="#cbd5e1"/>
+      <circle cx="242" cy="135" r="28" fill="#0f172a" stroke="#475569" stroke-width="4"/>
+      <circle cx="242" cy="135" r="14" fill="#cbd5e1"/>
+      <!-- Grille -->
+      <rect x="290" y="112" width="14" height="18" rx="2" fill="#0f172a"/>
+      <ellipse cx="295" cy="120" rx="3.5" ry="2.5" fill="#ffffff"/>
+    </g>
+  </g>
+  <!-- License Plate and Vehicle Label -->
+  <rect x="16" y="244" width="180" height="42" rx="8" fill="#0f172a" fill-opacity="0.9" stroke="#334155" stroke-width="1"/>
+  <text x="26" y="263" fill="#e2e8f0" font-size="12" font-family="sans-serif" font-weight="bold">B 2997 UFD</text>
+  <text x="26" y="277" fill="#94a3b8" font-size="9" font-family="sans-serif">Toyota Avanza 1.5 G M/T</text>
+  <text x="180" y="263" fill="#10b981" font-size="9" font-family="sans-serif" font-weight="bold" text-anchor="end">👤 Andi</text>
+</svg>

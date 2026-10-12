@@ -1,1 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;700;800;900&family=Syne:wght@700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
 @import "tailwindcss";
+
+/* Font Unik Branding SIMPEL */
+.font-brand, .brand-simpel {
+  font-family: 'Orbitron', 'Syne', -apple-system, sans-serif !important;
+  letter-spacing: 0.14em;
+  font-weight: 800;
+}
+
+/* Sembunyikan icon mata bawaan browser (Edge, Chrome, Webkit, IE) agar tidak tumpang tindih dengan custom icon */
+input::-ms-reveal,
+input::-ms-clear {
+  display: none;
+}
+
+/* GLOBAL DATE & TIME PICKER STYLING FOR DARK / LIGHT MODE */
+.theme-dark,
+.dark,
+[data-theme="dark"],
+.theme-dark input[type="date"],
+.theme-dark input[type="time"],
+.theme-dark input[type="datetime-local"],
+.dark input[type="date"],
+.dark input[type="time"],
+.dark input[type="datetime-local"],
+[data-theme="dark"] input[type="date"],
+[data-theme="dark"] input[type="time"],
+[data-theme="dark"] input[type="datetime-local"] {
+  color-scheme: dark;
+}
+
+.theme-light,
+.light,
+[data-theme="light"],
+.theme-light input[type="date"],
+.theme-light input[type="time"],
+.theme-light input[type="datetime-local"],
+.light input[type="date"],
+.light input[type="time"],
+.light input[type="datetime-local"],
+[data-theme="light"] input[type="date"],
+[data-theme="light"] input[type="time"],
+[data-theme="light"] input[type="datetime-local"] {
+  color-scheme: light;
+}
+
+/* Ensure WebKit calendar & time picker indicators are crisp and white in dark mode */
+.theme-dark input[type="date"]::-webkit-calendar-picker-indicator,
+.theme-dark input[type="time"]::-webkit-calendar-picker-indicator,
+.theme-dark input[type="datetime-local"]::-webkit-calendar-picker-indicator,
+.dark input[type="date"]::-webkit-calendar-picker-indicator,
+.dark input[type="time"]::-webkit-calendar-picker-indicator,
+.dark input[type="datetime-local"]::-webkit-calendar-picker-indicator,
+[data-theme="dark"] input[type="date"]::-webkit-calendar-picker-indicator,
+[data-theme="dark"] input[type="time"]::-webkit-calendar-picker-indicator,
+[data-theme="dark"] input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  filter: invert(1) brightness(1.2);
+  opacity: 0.95;
+  border-radius: 4px;
+  padding: 2px 3px;
+  transition: all 0.2s ease;
+}
+
+.theme-dark input[type="date"]::-webkit-calendar-picker-indicator:hover,
+.theme-dark input[type="time"]::-webkit-calendar-picker-indicator:hover,
+.dark input[type="date"]::-webkit-calendar-picker-indicator:hover,
+.dark input[type="time"]::-webkit-calendar-picker-indicator:hover {
+  opacity: 1;
+  background-color: rgba(16, 185, 129, 0.25);
+  transform: scale(1.1);
+}

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <rect width="400" height="300" rx="16" fill="url(#bgGrad)"/>
+  <circle cx="200" cy="150" r="105" fill="#f59e0b" fill-opacity="0.08"/>
+  <g filter="url(#shadow)">
+    
+      <g transform="translate(40, 60)">
+        <ellipse cx="160" cy="150" rx="140" ry="18" fill="#000" fill-opacity="0.4"/>
+        <path d="M25,130 L45,85 Q65,60 115,50 L200,45 Q245,48 275,75 L305,105 L305,130 Z" fill="#d97706"/>
+        <!-- Dynamic Shield Chrome -->
+        <path d="M280,85 L300,105 L285,125" fill="none" stroke="#fde68a" stroke-width="4"/>
+        <path d="M105,58 L190,52 L200,85 L85,85 Z" fill="#451a03" stroke="#fbbf24" stroke-width="1.5"/>
+        <circle cx="85" cy="135" r="27" fill="#0f172a" stroke="#64748b" stroke-width="4"/>
+        <circle cx="85" cy="135" r="13" fill="#e2e8f0"/>
+        <circle cx="240" cy="135" r="27" fill="#0f172a" stroke="#64748b" stroke-width="4"/>
+        <circle cx="240" cy="135" r="13" fill="#e2e8f0"/>
+      </g>
+    
+  </g>
+  <rect x="16" y="248" width="160" height="36" rx="8" fill="#0f172a" fill-opacity="0.85" stroke="#334155" stroke-width="1"/>
+  <text x="28" y="266" fill="#e2e8f0" font-size="11" font-family="sans-serif" font-weight="bold">B 9042 RX</text>
+  <text x="28" y="278" fill="#94a3b8" font-size="9" font-family="sans-serif">Mitsubishi Xpander Ultimate</text>
+</svg>

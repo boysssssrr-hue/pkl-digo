@@ -1,0 +1,1213 @@
+[
+    {
+        "id": 1,
+        "barcode": "ATK-001",
+        "name": "Penggaris Butterfly 30 cm",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 2,
+        "barcode": "ATK-002",
+        "name": "Lakban Coklat Besar 2 inch (lebar 48mm x 90 yard)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 3,
+        "barcode": "ATK-003",
+        "name": "Lakban Hitam Besar 2 inch (lebar 48mm x 90 yard)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 4,
+        "barcode": "ATK-004",
+        "name": "Lakban Bening 2 inch (lebar 48mm x 90 yard)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 5,
+        "barcode": "ATK-005",
+        "name": "Lakban Bening Daimaru Sedang",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 6,
+        "barcode": "ATK-006",
+        "name": "Lakban Bening Ukuran Kecil",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 7,
+        "barcode": "ATK-007",
+        "name": "Double Tip Ukuran Sedang",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 8,
+        "barcode": "ATK-008",
+        "name": "Double Tim 3M",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 9,
+        "barcode": "ATK-009",
+        "name": "Label T & J No. 99 1 pack isi 10 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 10,
+        "barcode": "ATK-010",
+        "name": "Label T & J No. 103 1 pack isi 10 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 11,
+        "barcode": "ATK-011",
+        "name": "Label T & J No. 104 1 pack isi 10 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 12,
+        "barcode": "ATK-012",
+        "name": "Label T & J No. 109 1 pack isi 10 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 13,
+        "barcode": "ATK-013",
+        "name": "Label T & J No. 112 1 pack isi 10 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 14,
+        "barcode": "ATK-014",
+        "name": "Label T & J No. 121 1 pack isi 10 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 15,
+        "barcode": "ATK-015",
+        "name": "Label T & J No. 123 1 pack isi 10 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 16,
+        "barcode": "ATK-016",
+        "name": "Label T & J No. 124 1 pack isi 10 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 17,
+        "barcode": "ATK-017",
+        "name": "Label T & J No. 126 1 pack isi 10 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 18,
+        "barcode": "ATK-018",
+        "name": "Baterai Alkalin 1.5V A2 Isi 6",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 19,
+        "barcode": "ATK-019",
+        "name": "Baterai Alkalin 1.5V A3 Isi 6",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 20,
+        "barcode": "ATK-020",
+        "name": "Ballpoint Pilot Ball Liner Medium Black 1 pack isi 12 pcs",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 21,
+        "barcode": "ATK-021",
+        "name": "Ballpoint Pilot Ball Liner Medium Blue 1 pack isi 12 pcs",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 22,
+        "barcode": "ATK-022",
+        "name": "Ballpoint Zebra Sarasa Clip Black (1.0) 1 pack isi 12 pcs",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 23,
+        "barcode": "ATK-023",
+        "name": "Ballpoint Zebra Sarasa Clip Black (0,7) 1 pack isi 12 pcs",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 24,
+        "barcode": "ATK-024",
+        "name": "Ballpoint Zebra Sarasa Clip Black (0.5) 1 pack isi 12 pcs",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 25,
+        "barcode": "ATK-025",
+        "name": "Pulpen Snowman V5 0.7 Merah",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 26,
+        "barcode": "ATK-026",
+        "name": "Clear Holder Folio F4 Size Isi 60",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 27,
+        "barcode": "ATK-027",
+        "name": "Benex Black 2 Rings (75mm) Labela",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 28,
+        "barcode": "ATK-028",
+        "name": "Sign Here Warna Warni Joyko 1 pack isi 12 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 29,
+        "barcode": "ATK-029",
+        "name": "Sign Here Biasa Joyko 1 pack isi 24 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 30,
+        "barcode": "ATK-030",
+        "name": "Sticky Notes Kecil (5x5 cm) Pronto 1 pack isi 12 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 31,
+        "barcode": "ATK-031",
+        "name": "Sticky Notes Sedang 76 x 51 mm Pronto 1 pack isi 12 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 32,
+        "barcode": "ATK-032",
+        "name": "Sticky Notes Besar 76 x 76 mm Pronto 1 pack isi 12 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 33,
+        "barcode": "ATK-033",
+        "name": "Kertas A4 (75 gram)",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 34,
+        "barcode": "ATK-034",
+        "name": "Kertas F4 (75 gram)",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 35,
+        "barcode": "ATK-035",
+        "name": "Kertas Kop BPJS Kesehatan",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 36,
+        "barcode": "ATK-036",
+        "name": "Bindex File Jumbo 1034B",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 37,
+        "barcode": "ATK-037",
+        "name": "Snowman Spidol Permanent Black 1 pack isi 12",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 38,
+        "barcode": "ATK-038",
+        "name": "Snowman Spidol Papan Tulis BG-12 Black",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 39,
+        "barcode": "ATK-039",
+        "name": "Snowman Spidol Papan Tulis BG-12 Blue",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 40,
+        "barcode": "ATK-040",
+        "name": "Snowman Spidol Papan Tulis BG-12 Red",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 41,
+        "barcode": "ATK-041",
+        "name": "Snowman Spidol ABG - 12 Black",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 42,
+        "barcode": "ATK-042",
+        "name": "Spidol Besar Snowman 500",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 43,
+        "barcode": "ATK-043",
+        "name": "Spidol Snowman 450",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 44,
+        "barcode": "ATK-044",
+        "name": "Refill Snowman V5 0.7 1 pack isi 12 pcs",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 45,
+        "barcode": "ATK-045",
+        "name": "Stabilo Plan 2,5 - 3,5 MM Red",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 46,
+        "barcode": "ATK-046",
+        "name": "Gunting Scissors Joyko SC-828",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 47,
+        "barcode": "ATK-047",
+        "name": "Gunting Scissors Joyko SC-838",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 48,
+        "barcode": "ATK-048",
+        "name": "Gunting Scissors Joyko SC-848",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 49,
+        "barcode": "ATK-049",
+        "name": "Set Pen Holder Tempat Alat Tulis Joyko Meja Kantor DS-23",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 50,
+        "barcode": "ATK-050",
+        "name": "Joyko Tempat Pensil DS-18",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 51,
+        "barcode": "ATK-051",
+        "name": "Joyko Rak Dokumen DT-25 (3 susun)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 52,
+        "barcode": "ATK-052",
+        "name": "Rak Dokumen Ukuran Kertas F4 (2 susun)",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 53,
+        "barcode": "ATK-053",
+        "name": "Materai 10000 (1 Lembar isi 100 Pcs)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 54,
+        "barcode": "ATK-054",
+        "name": "Stapler Kenko HD-10N",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 55,
+        "barcode": "ATK-055",
+        "name": "Stapler Kenko HD-50N",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 56,
+        "barcode": "ATK-056",
+        "name": "Isi Staples No.3 - 1 M Fine 1 pack isi 20 box kecil",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 57,
+        "barcode": "ATK-057",
+        "name": "Isi Staples Kenko No.3-1M 1 pack isi 20 box kecil",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 58,
+        "barcode": "ATK-058",
+        "name": "Isi Staples Kenko No.10-1M 1 pack isi 20 box kecil",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 59,
+        "barcode": "ATK-059",
+        "name": "Etona Staples No.10 - 1 M",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 60,
+        "barcode": "ATK-060",
+        "name": "Alat Pelepas Staples SR 51",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 61,
+        "barcode": "ATK-061",
+        "name": "Cutter Joyko L-500",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 62,
+        "barcode": "ATK-062",
+        "name": "Cutter Joyko A-300",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 63,
+        "barcode": "ATK-063",
+        "name": "Isi Cutter Joyko L-500 1 pack isi 12 pcs",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 64,
+        "barcode": "ATK-064",
+        "name": "Isi Cutter Joyko A-300 1 pack isi 12 pcs",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 65,
+        "barcode": "ATK-065",
+        "name": "Paper Clips No. 5 1 pack isi 10 box kecil",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 66,
+        "barcode": "ATK-066",
+        "name": "Paper Clips No. 3 1 pack isi 10 box kecil",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 67,
+        "barcode": "ATK-067",
+        "name": "Binder Clips Joyko No. 300 1 dus isi 6 pcs",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 68,
+        "barcode": "ATK-068",
+        "name": "Binder Clips Joyko No. 260 1 dus isi 12 pcs",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 69,
+        "barcode": "ATK-069",
+        "name": "Binder Clips Joyko No. 200 1 dus isi 12 Pcs",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 70,
+        "barcode": "ATK-070",
+        "name": "Binder Clips Joyko No. 155 1 dus isi 12 box kecil",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 71,
+        "barcode": "ATK-071",
+        "name": "Binder Clips Joyko No. 111 1 dus isi 12 box kecil",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 72,
+        "barcode": "ATK-072",
+        "name": "Binder Clips Joyko No. 107 1 dus isi 12 box kecil",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 73,
+        "barcode": "ATK-073",
+        "name": "Binder Clips Joyko No. 105 1 dus isi 12 box kecil",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 74,
+        "barcode": "ATK-074",
+        "name": "Amplop Coklat BPJS Kesehatan 1 pack isi 10 pcs",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 75,
+        "barcode": "ATK-075",
+        "name": "Amplop Putih Polos 90 pps",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 76,
+        "barcode": "ATK-076",
+        "name": "Amplop Putih Polos 110 pps",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 77,
+        "barcode": "ATK-077",
+        "name": "Amplop Putih Jendela BPJS (1 Pack isi 100 Pcs)",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 78,
+        "barcode": "ATK-078",
+        "name": "Map BPJS Kesehatan 1 pack isi 12 pcs",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 79,
+        "barcode": "ATK-079",
+        "name": "Map Kancing Coklat Kyoto K.311 1 dus isi 10 pcs",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 80,
+        "barcode": "ATK-080",
+        "name": "Map Kertas Biola Polos Warna Warni 5002 1 pack isi 50 pcs",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 81,
+        "barcode": "ATK-081",
+        "name": "Map Plastik Zipper Bag",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 82,
+        "barcode": "ATK-082",
+        "name": "Map Bening",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 83,
+        "barcode": "ATK-083",
+        "name": "Buku Berkas Ukuran Besar",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 84,
+        "barcode": "ATK-084",
+        "name": "Buku Berkas Ukuran Kecil",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 85,
+        "barcode": "ATK-085",
+        "name": "Bantex",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 86,
+        "barcode": "ATK-086",
+        "name": "Block Note",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 87,
+        "barcode": "ATK-087",
+        "name": "Nota Kontan Paperline 25 set (108 x 155 mm)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 88,
+        "barcode": "ATK-088",
+        "name": "Nota Kontan Paperline 25 set (160 x 210 mm)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 89,
+        "barcode": "ATK-089",
+        "name": "Kwitansi Paperline",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 90,
+        "barcode": "ATK-090",
+        "name": "Toner HP P1102 85A",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 91,
+        "barcode": "ATK-091",
+        "name": "Epson L3110/L3210 (003) Magenta (M)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 92,
+        "barcode": "ATK-092",
+        "name": "Epson L3110/L3210 (003) Black (K)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 93,
+        "barcode": "ATK-093",
+        "name": "Epson L3110/L3210 (003) Cyan ( C )",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 94,
+        "barcode": "ATK-094",
+        "name": "Epson L3110/L3210 (003) Yellow (Y)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 95,
+        "barcode": "ATK-095",
+        "name": "Epson L360 (664) Magenta (M)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 96,
+        "barcode": "ATK-096",
+        "name": "Epson L360 (664) Black (K)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 97,
+        "barcode": "ATK-097",
+        "name": "Epson L360 (664) Cyan ( C )",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 98,
+        "barcode": "ATK-098",
+        "name": "Epson L360 (664) Yellow (Y)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 99,
+        "barcode": "ATK-099",
+        "name": "Laser Toner Cartridge CF352A Magenta (M)",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 100,
+        "barcode": "ATK-100",
+        "name": "Laser Toner Cartridge CF352A Black (K)",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 101,
+        "barcode": "ATK-101",
+        "name": "Laser Toner Cartridge CF352A Cyan ( C )",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 102,
+        "barcode": "ATK-102",
+        "name": "Laser Toner Cartridge CF352A Yellow (Y)",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 103,
+        "barcode": "ATK-103",
+        "name": "Laser Toner Cartridge CE 285A Magenta (M)",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 104,
+        "barcode": "ATK-104",
+        "name": "Laser Toner Cartridge CE 285A Black (K)",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 105,
+        "barcode": "ATK-105",
+        "name": "Laser Toner Cartridge CE 285A Cyan ( C )",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 106,
+        "barcode": "ATK-106",
+        "name": "Laser Toner Cartridge CE 285A Yellow (Y)",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 107,
+        "barcode": "ATK-107",
+        "name": "Artline Stamp Pad Ink",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 108,
+        "barcode": "ATK-108",
+        "name": "Artline 100",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 109,
+        "barcode": "ATK-109",
+        "name": "Highlighter Artline Clix Biru",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 110,
+        "barcode": "ATK-110",
+        "name": "Highlighter Artline Clix Hijau",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 111,
+        "barcode": "ATK-111",
+        "name": "Highlighter Artline Clix Pink",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 112,
+        "barcode": "ATK-112",
+        "name": "Highlighter-Kuning (Stabilo Boss Original - Kuning)",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 113,
+        "barcode": "ATK-113",
+        "name": "Highlighter-Kuning (Stabilo Boss Original - Hijau Muda)",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 114,
+        "barcode": "ATK-114",
+        "name": "Shiny 8 Band Numberer",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 115,
+        "barcode": "ATK-115",
+        "name": "SDI Staples No.1213",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 116,
+        "barcode": "ATK-116",
+        "name": "Handseal Large",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 117,
+        "barcode": "ATK-117",
+        "name": "Kenko Glue Stick 25 g 1 pack isi 12 pcs",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 118,
+        "barcode": "ATK-118",
+        "name": "Kenko Spare Blade A - 100 1 box isi 12 pack",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 119,
+        "barcode": "ATK-119",
+        "name": "Joyko Eraser 526 B40BL",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 120,
+        "barcode": "ATK-120",
+        "name": "Joyko Date Stamp D - 3",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 121,
+        "barcode": "ATK-121",
+        "name": "Joyko Heavy Duty Punch no 85",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 122,
+        "barcode": "ATK-122",
+        "name": "Tape Cassette 24 MM",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 123,
+        "barcode": "ATK-123",
+        "name": "Concorde Brief Card A4 220 gr/m2 Putih",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 124,
+        "barcode": "ATK-124",
+        "name": "Concorde Brief Card A4 220 gr/m2 Hijau",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 125,
+        "barcode": "ATK-125",
+        "name": "Concorde Brief Card A4 220 gr/m2 Biru",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 126,
+        "barcode": "ATK-126",
+        "name": "Concorde Brief Card A4 220 gr/m2 Merah/Pink",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 127,
+        "barcode": "ATK-127",
+        "name": "Concorde Brief Card A4 220 gr/m2 Kuning",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 128,
+        "barcode": "ATK-128",
+        "name": "Concorde Brief Card A4 220 gr/m2 Orange",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 129,
+        "barcode": "ATK-129",
+        "name": "Concorde Brief Card A4 220 gr/m2 Silver",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 130,
+        "barcode": "ATK-130",
+        "name": "Concorde Brief Card A4 160 gr/m2 Putih",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 131,
+        "barcode": "ATK-131",
+        "name": "Concorde Brief Card A4 160 gr/m2 Hijau",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 132,
+        "barcode": "ATK-132",
+        "name": "Concorde Brief Card A4 160 gr/m2 Biru",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 133,
+        "barcode": "ATK-133",
+        "name": "Concorde Brief Card A4 160 gr/m2 Merah/Pink",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 134,
+        "barcode": "ATK-134",
+        "name": "Concorde Brief Card A4 160 gr/m2 Kuning",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 135,
+        "barcode": "ATK-135",
+        "name": "Concorde Brief Card A4 160 gr/m2 Orange",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 136,
+        "barcode": "ATK-136",
+        "name": "Concorde Brief Card A4 160 gr/m2 Silver",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 137,
+        "barcode": "ATK-137",
+        "name": "Concorde Brief Card A4 90 gr/m2 Putih",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 138,
+        "barcode": "ATK-138",
+        "name": "Concorde Brief Card A4 90 gr/m2 Hijau",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 139,
+        "barcode": "ATK-139",
+        "name": "Concorde Brief Card A4 90 gr/m2 Biru",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 140,
+        "barcode": "ATK-140",
+        "name": "Concorde Brief Card A4 90 gr/m2 Merah/Pink",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 141,
+        "barcode": "ATK-141",
+        "name": "Concorde Brief Card A4 90 gr/m2 Kuning",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 142,
+        "barcode": "ATK-142",
+        "name": "Baterai LR20 (D Size) 1 pack isi 12",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 143,
+        "barcode": "ATK-143",
+        "name": "Pulpen 4 warna (merah,biru,hijau,hitam) Joyko BP-213 (0.7 mm)",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 144,
+        "barcode": "ATK-144",
+        "name": "Joyko Heavy Duty Punch Kecil",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 145,
+        "barcode": "ATK-145",
+        "name": "Marker Twin Head 0.5mm (hitam)",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 146,
+        "barcode": "ATK-146",
+        "name": "Marker Twin Head 0.5mm (biru)",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 147,
+        "barcode": "ATK-147",
+        "name": "Marker Twin Head 0.5mm (merah)",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 148,
+        "barcode": "ATK-148",
+        "name": "Paper Cutter A3",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 149,
+        "barcode": "ATK-149",
+        "name": "Map Batik 1 pack isi 12",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 150,
+        "barcode": "ATK-150",
+        "name": "Ballpoint Zebra Sarasa Clip Black (0,7) 1 pack isi 12 pcs",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 151,
+        "barcode": "ATK-151",
+        "name": "Ballpoint Zebra Sarasa Clip Biru (0,7) 1 pack isi 12 pcs",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 152,
+        "barcode": "ATK-152",
+        "name": "Ballpen Hitam Non Gel 0,5 BP-338 1 pack isi 12 pcs",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 153,
+        "barcode": "ATK-153",
+        "name": "Felix Folder (Map L) 1 pack isi 12",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 154,
+        "barcode": "ATK-154",
+        "name": "Pensil Faber Castel 2B",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 155,
+        "barcode": "ATK-155",
+        "name": "Pembatas Buku Besi",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 156,
+        "barcode": "ATK-156",
+        "name": "Kalkulator 868L",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 157,
+        "barcode": "ATK-157",
+        "name": "Rautan Serut Putar",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 158,
+        "barcode": "ATK-158",
+        "name": "Post it Sticky Note 51mm x 38mm",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 159,
+        "barcode": "ATK-159",
+        "name": "Post it Flags and Page 3m",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 160,
+        "barcode": "ATK-160",
+        "name": "Baterai R14S 2S 1 pack isi 2",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 161,
+        "barcode": "ATK-161",
+        "name": "Kertas Flip Chart 60 x 90 isi 25",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 162,
+        "barcode": "ATK-162",
+        "name": "Penghapus Faber Castel",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 163,
+        "barcode": "ATK-163",
+        "name": "Corection Tape Roller",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 164,
+        "barcode": "ATK-164",
+        "name": "Brand Tape Green 3M",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 165,
+        "barcode": "ATK-165",
+        "name": "Pulpen Semi Gel Pen 0.5mm Black 1 pack isi 12 pcs",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 166,
+        "barcode": "ATK-166",
+        "name": "Desk Set 9088 Tempat pensil meja",
+        "category": "Alat Tulis",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 167,
+        "barcode": "ATK-167",
+        "name": "Double Sided Tape Perekat (12mm x 13M)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 168,
+        "barcode": "ATK-168",
+        "name": "Double Sided Tape Perekat (24mm x 13M)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 169,
+        "barcode": "ATK-169",
+        "name": "Lakban Hitam (23m x 10m)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 170,
+        "barcode": "ATK-170",
+        "name": "Lakban Hitam (35 x 10m)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 171,
+        "barcode": "ATK-171",
+        "name": "Double Tape Bening Nano Gel (3cm x 3M)",
+        "category": "Perlengkapan",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 172,
+        "barcode": "ATK-172",
+        "name": "Kertas Coklat Lembaran (90x120)",
+        "category": "Buku & Kertas",
+        "image": "/images/atk/default-atk.svg"
+    },
+    {
+        "id": 173,
+        "barcode": "ATK-173",
+        "name": "R&R Stopmap Folio",
+        "category": "Folder & Arsip",
+        "image": "/images/atk/default-atk.svg"
+    }
+]

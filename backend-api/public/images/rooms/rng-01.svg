@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <rect width="400" height="300" rx="16" fill="url(#bgGrad)"/>
+  <circle cx="200" cy="150" r="105" fill="#059669" fill-opacity="0.08"/>
+  <g filter="url(#shadow)">
+    
+      <!-- Wall / Background Room -->
+      <rect x="40" y="40" width="320" height="220" rx="8" fill="#1e293b"/>
+      <polygon points="40,40 360,40 330,70 70,70" fill="#0f172a"/>
+      <!-- Smart TV / Video Screen -->
+      <rect x="130" y="60" width="140" height="80" rx="4" fill="#020617" stroke="#38bdf8" stroke-width="2"/>
+      <circle cx="200" cy="55" r="4" fill="#ef4444"/>
+      <text x="200" y="105" fill="#38bdf8" font-size="11" font-family="sans-serif" font-weight="bold" text-anchor="middle">POLYCOM V-CONF</text>
+      <!-- Big Boardroom Conference Table -->
+      <polygon points="80,210 320,210 280,160 120,160" fill="#78350f" stroke="#b45309" stroke-width="2"/>
+      <!-- Chairs -->
+      <rect x="100" y="180" width="20" height="35" rx="5" fill="#334155"/>
+      <rect x="150" y="180" width="20" height="35" rx="5" fill="#334155"/>
+      <rect x="230" y="180" width="20" height="35" rx="5" fill="#334155"/>
+      <rect x="280" y="180" width="20" height="35" rx="5" fill="#334155"/>
+    
+  </g>
+  <rect x="16" y="248" width="160" height="36" rx="8" fill="#0f172a" fill-opacity="0.85" stroke="#334155" stroke-width="1"/>
+  <text x="28" y="266" fill="#e2e8f0" font-size="11" font-family="sans-serif" font-weight="bold">RNG-01</text>
+  <text x="28" y="278" fill="#94a3b8" font-size="9" font-family="sans-serif">Ruang Rapat Utama (Graha 1)</text>
+</svg>

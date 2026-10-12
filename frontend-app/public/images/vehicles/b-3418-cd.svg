@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <rect width="400" height="300" rx="16" fill="url(#bgGrad)"/>
+  <circle cx="200" cy="150" r="105" fill="#14b8a6" fill-opacity="0.08"/>
+  <g filter="url(#shadow)">
+    
+      <!-- Tall Boxy Minibus Shape -->
+      <g transform="translate(40, 50)">
+        <ellipse cx="160" cy="160" rx="140" ry="18" fill="#000" fill-opacity="0.4"/>
+        <path d="M20,140 L25,60 Q25,50 40,48 L240,48 Q260,50 280,85 L295,115 L300,140 Z" fill="#0f766e"/>
+        <!-- Large Minibus Windows -->
+        <rect x="40" y="55" width="55" height="40" rx="4" fill="#042f2e" stroke="#2dd4bf" stroke-width="1.5"/>
+        <rect x="105" y="55" width="65" height="40" rx="4" fill="#042f2e" stroke="#2dd4bf" stroke-width="1.5"/>
+        <path d="M180,55 L240,55 L265,95 L180,95 Z" fill="#042f2e" stroke="#2dd4bf" stroke-width="1.5"/>
+        <circle cx="85" cy="140" r="26" fill="#0f172a" stroke="#64748b" stroke-width="4"/>
+        <circle cx="85" cy="140" r="13" fill="#e2e8f0"/>
+        <circle cx="235" cy="140" r="26" fill="#0f172a" stroke="#64748b" stroke-width="4"/>
+        <circle cx="235" cy="140" r="13" fill="#e2e8f0"/>
+      </g>
+    
+  </g>
+  <rect x="16" y="248" width="160" height="36" rx="8" fill="#0f172a" fill-opacity="0.85" stroke="#334155" stroke-width="1"/>
+  <text x="28" y="266" fill="#e2e8f0" font-size="11" font-family="sans-serif" font-weight="bold">B 3418 CD</text>
+  <text x="28" y="278" fill="#94a3b8" font-size="9" font-family="sans-serif">Daihatsu Luxio 1.5 Minibus</text>
+</svg>
